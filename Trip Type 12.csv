@@ -1,0 +1,6 @@
+﻿TripNumber,Trip_Type,Distance,T_HC,T_HD,Avg_HD_TripNo,Avg_HC_TripType,Avg_HD_TripType,GT_T_HC,GT_T_HD,GT_Avg_HD_TripNo,GT_Avg_HC_TripType,GT_Avg_HD_TripType,T_HC(Bike),T_HD(Bike),Avg_HD_TripNo(Bike),Avg_HC_TripType(Bike),Avg_HD_TripType(Bike),Trip_code,Trip_Time,Time_Context,Road_Context
+56,12,2.1,5,1800,360,4,1830,6,2100,350,5,1970,19,4970,260,23,6730,SAN-AJ,07:30 PM,Evening Office Time,SingleRoad-BothWay
+57,12,2.1,6,2460,410,4,1830,6,2460,410,5,1970,30,9090,300,23,6730,SAN-AJ,07:30 PM,Evening Office Time,SingleRoad-BothWay
+58,12,2.1,4,1800,450,4,1830,4,1800,450,5,1970,19,6010,320,23,6730,SAN-AJ,07:30 PM,Evening Office Time,SingleRoad-BothWay
+59,12,2.1,4,1600,400,4,1830,4,1600,400,5,1970,14,3710,260,23,6730,SAN-AJ,07:30 PM,Evening Office Time,SingleRoad-BothWay
+60,12,2.1,3,1500,500,4,1830,4,1920,480,5,1970,34,9850,290,23,6730,SAN-AJ,07:30 PM,Evening Office Time,SingleRoad-BothWay

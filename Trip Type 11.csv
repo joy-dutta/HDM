@@ -1,0 +1,6 @@
+﻿TripNumber,Trip_Type,Distance,T_HC,T_HD,Avg_HD_TripNo,Avg_HC_TripType,Avg_HD_TripType,GT_T_HC,GT_T_HD,GT_Avg_HD_TripNo,GT_Avg_HC_TripType,GT_Avg_HD_TripType,T_HC(Bike),T_HD(Bike),Avg_HD_TripNo(Bike),Avg_HC_TripType(Bike),Avg_HD_TripType(Bike),Trip_code,Trip_Time,Time_Context,Road_Context
+51,11,2.2,2,800,400,1,510,2,860,430,1,520,12,3640,300,8,2230,JU-SAN,07:00 PM,Evening Office Time,SingleRoad-SingleWay
+52,11,2.2,0,0,0,1,510,0,0,0,1,520,3,910,310,8,2230,JU-SAN,07:00 PM,Evening Office Time,SingleRoad-SingleWay
+53,11,2.2,1,400,400,1,510,1,410,410,1,520,10,2570,260,8,2230,JU-SAN,07:00 PM,Evening Office Time,SingleRoad-SingleWay
+54,11,2.2,2,860,430,1,510,2,860,430,1,520,6,1700,280,8,2230,JU-SAN,07:00 PM,Evening Office Time,SingleRoad-SingleWay
+55,11,2.2,1,500,500,1,510,1,490,490,1,520,9,2350,260,8,2230,JU-SAN,07:00 PM,Evening Office Time,SingleRoad-SingleWay

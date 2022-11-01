@@ -1,0 +1,7 @@
+﻿TripNumber,Trip_Type,Distance,T_HC,T_HD,Avg_HD_TripNo,Avg_HC_TripType,Avg_HD_TripType,GT_T_HC,GT_T_HD,GT_Avg_HD_TripNo,GT_Avg_HC_TripType,GT_Avg_HD_TripType,Trip_code,Trip_Time,Time_Context,Road_Context
+81,17,16,14,5460,390,14,6410,18,7200,400,15,6850,Bel-NewT,09:30 AM,Morning Office-Time,MultiLane-SingleWay
+82,17,16,12,5760,480,14,6410,12,5520,460,15,6850,Bel-NewT,09:30 AM,Morning Office-Time,MultiLane-SingleWay
+83,17,16,17,7480,440,14,6410,18,7200,400,15,6850,Bel-NewT,09:30 AM,Morning Office-Time,MultiLane-SingleWay
+84,17,16,10,5000,500,14,6410,12,5880,490,15,6850,Bel-NewT,09:30 AM,Morning Office-Time,MultiLane-SingleWay
+85,17,16,18,8100,450,14,6410,18,8100,450,15,6850,Bel-NewT,09:30 AM,Morning Office-Time,MultiLane-SingleWay
+86,17,16,15,6750,450,14,6410,15,7200,480,15,6850,Bel-NewT,09:30 AM,Morning Office-Time,MultiLane-SingleWay

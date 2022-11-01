@@ -1,0 +1,7 @@
+﻿TripNumber,Trip_Type,Distance,T_HC,T_HD,Avg_HD_TripNo,Avg_HC_TripType,Avg_HD_TripType,GT_T_HC,GT_T_HD,GT_Avg_HD_TripNo,GT_Avg_HC_TripType,GT_Avg_HD_TripType,Trip_code,Trip_Time,Time_Context,Road_Context
+95,19,9.4,10,4900,490,11,5000,12,6000,500,12,5610,Bel-Dum,04:00 PM,Afternoon,SingleRoad-BothWay
+96,19,9.4,10,4300,430,11,5000,11,4730,430,12,5610,Bel-Dum,04:00 PM,Afternoon,SingleRoad-BothWay
+97,19,9.4,18,7560,420,11,5000,20,9000,450,12,5610,Bel-Dum,04:00 PM,Afternoon,SingleRoad-BothWay
+98,19,9.4,8,3280,410,11,5000,8,3280,410,12,5610,Bel-Dum,04:00 PM,Afternoon,SingleRoad-BothWay
+99,19,9.4,11,4950,450,11,5000,11,4950,450,12,5610,Bel-Dum,04:00 PM,Afternoon,SingleRoad-BothWay
+100,19,9.4,12,5040,420,11,5000,14,5740,410,12,5610,Bel-Dum,04:00 PM,Afternoon,SingleRoad-BothWay

@@ -1,0 +1,6 @@
+﻿TripNumber,Trip_Type,Distance,T_HC,T_HD,Avg_HD_TripNo,Avg_HC_TripType,Avg_HD_TripType,GT_T_HC,GT_T_HD,GT_Avg_HD_TripNo,GT_Avg_HC_TripType,GT_Avg_HD_TripType,T_HC(Bike),T_HD(Bike),Avg_HD_TripNo(Bike),Avg_HC_TripType(Bike),Avg_HD_TripType(Bike),Trip_code,Trip_Time,Time_Context,Road_Context
+21,5,4,6,3000,500,5,2330,6,2940,490,6,2520,25,8560,180,30,9260,Aj-JU,09:40 AM,Morning Office Time,SingleRoad-BothWay
+22,5,4,5,2050,410,5,2330,6,2340,390,6,2520,32,9330,230,30,9260,Aj-JU,09:40 AM,Morning Office Time,SingleRoad-BothWay
+23,5,4,4,1680,420,5,2330,4,1800,450,6,2520,26,7590,250,30,9260,Aj-JU,09:40 AM,Morning Office Time,SingleRoad-BothWay
+24,5,4,5,2150,430,5,2330,6,2340,390,6,2520,34,10980,210,30,9260,Aj-JU,09:40 AM,Morning Office Time,SingleRoad-BothWay
+25,5,4,7,2800,400,5,2330,8,3200,400,6,2520,33,9870,190,30,9260,Aj-JU,09:40 AM,Morning Office Time,SingleRoad-BothWay
